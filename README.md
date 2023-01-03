@@ -4,7 +4,7 @@ Identifikační kód projektu: `DG18P02OVV002`
 
 Projekt RightLib je řešen Knihovnou AV ČR, v. v. i., Moravskou zemskou knihovnou v Brně a Národní knihovnou České republiky.
 
-Koordinátorem vývoje je Ing. Martin Lhoták, lhotak@knav.cz.
+Koordinátorem vývoje je Knihovna AV ČR, v. v. i., zastoupená Ing. Martinem Lhotákem, lhotak@knav.cz.
 
 Hlavním cílem projektu je vytvoření funkčního poloprovozu ošetřujícího zpřístupnění chráněných dokumentů na základě různých parametrů s názvem RightLib, který bude propojen s Českou digitální knihovnou - národním agregátorem digitálních knihoven.
 
