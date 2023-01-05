@@ -10,7 +10,7 @@ Hlavním cílem projektu je vytvoření funkčního poloprovozu ošetřujícího
 
 Poloprovoz [Česká digitální knihovna - RightLib ](https://www.ceskadigitalniknihovna.cz)
 
-[Technická dokumentace poloprovozu RightLib ](https://docs.google.com/document/d/1dvWI_xm1f2XTdTi72BjlOJyF31ikQzQh/edit)
+[Technická dokumentace ](https://docs.google.com/document/d/1dvWI_xm1f2XTdTi72BjlOJyF31ikQzQh/edit) poloprovozu RightLib
 
 Poloprovoz je provozován Moravskou zemskou knihovnou v Brně a využívá komponenty vyvinuté v rámci projektu RightLib. Řešení umožňuje přístup k chráněným-licencovaným publikacím a jako hlavní softwarové řešení je využíván systém Kramerius ve verzi 7, jehož funkčnost byla v rámci projektu Rigtlib vyvíjena s účelem zajistit řešení pro zpřístupnění digitální dokumentů s různými typy licencí současně se zajištěním správy uživatelů s různými identitami.
 
