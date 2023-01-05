@@ -10,7 +10,9 @@ Hlavním cílem projektu je vytvoření funkčního poloprovozu ošetřujícího
 
 Poloprovoz [Česká digitální knihovna - RightLib ](https://www.ceskadigitalniknihovna.cz)
 
-Poloprovoz je provozován Moravskou zemskou knihovnou v Brně a využívá komponenty vyvinuté v rámci projektu RightLib. Řešení umožňuje přístup k chráněným-licencovaným publikacím a jako hlavní softwarové řešení je využíván systém Kramerius ve verzi 7, jehož funkčnost byla v rámci projektu Rigtlib vyvíjena s účelem zajistit řešení pro zpřístupnění digitální dokumentů s různými typy licencí současně se zajištěním správy uživatelů s různými identitami. 
+[Technická dokumentace poloprovozu RightLib ](https://docs.google.com/document/d/1dvWI_xm1f2XTdTi72BjlOJyF31ikQzQh/edit)
+
+Poloprovoz je provozován Moravskou zemskou knihovnou v Brně a využívá komponenty vyvinuté v rámci projektu RightLib. Řešení umožňuje přístup k chráněným-licencovaným publikacím a jako hlavní softwarové řešení je využíván systém Kramerius ve verzi 7, jehož funkčnost byla v rámci projektu Rigtlib vyvíjena s účelem zajistit řešení pro zpřístupnění digitální dokumentů s různými typy licencí současně se zajištěním správy uživatelů s různými identitami.
 
 Software [Kramerius 7](https://github.com/ceskaexpedice/kramerius/wiki/K7) je open source řešení pro zpřístupnění digitálních dokumentů. Primárně je určen pro digitalizované knihovní sbírky, monografie a periodika. Využit může být ke zpřístupnění dalších typů dokumentů např. map, hudebnin a starých tisků, kronik, případně částí dokumentů jako jsou články a kapitoly. Systém je vhodný také pro digital born dokumenty, tedy dokumenty, které vznikly v elektronické podobě. Kramerius je průběžně upravován tak, aby struktura metadat odpovídala standardům vyhlašovaným Národní knihovnou České republiky. Systém poskytuje rozhraní pro přístup koncových uživatelů, zajišťující vyhledávání v metadatech a v plných textech, generování vícestránkových PDF dokumentů z vybraných stran, vytváření virtuálních sbírek a další operace nad uloženou sbírkou digitálních dokumentů.
 
