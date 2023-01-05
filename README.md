@@ -8,7 +8,7 @@ Koordinátorem vývoje je Knihovna AV ČR, v. v. i., zastoupená Ing. Martinem L
 
 Hlavním cílem projektu je vytvoření funkčního poloprovozu ošetřujícího zpřístupnění chráněných dokumentů na základě různých parametrů s názvem RightLib, který bude propojen s Českou digitální knihovnou - národním agregátorem digitálních knihoven.
 
-Poloprovoz [Česká digitální knihovna - RightLib ](https://czechdigitallibrary.cz/)
+Poloprovoz [Česká digitální knihovna - RightLib ](https://www.ceskadigitalniknihovna.cz)
 
 Poloprovoz je provozován Moravskou zemskou knihovnou v Brně a využívá komponenty vyvinuté v rámci projektu RightLib. Řešení umožňuje přístup k chráněným-licencovaným publikacím a jako hlavní softwarové řešení je využíván systém Kramerius ve verzi 7, jehož funkčnost byla v rámci projektu Rigtlib vyvíjena s účelem zajistit řešení pro zpřístupnění digitální dokumentů s různými typy licencí současně se zajištěním správy uživatelů s různými identitami. 
 
